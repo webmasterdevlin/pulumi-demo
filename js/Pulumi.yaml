@@ -1,0 +1,3 @@
+name: pulumidemo
+runtime: nodejs
+description: A minimal Azure JavaScript Pulumi program
