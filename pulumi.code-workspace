@@ -1,20 +1,23 @@
 {
   "folders": [
-	{
-		"path": "js"
-	},
-	{
-		"path": "ts"
-	},
-	{
-		"path": "go"
-	},
-	{
-		"path": "csharp"
-	},
-	{
-		"path": "py"
-	}
-],
+    {
+      "path": "js"
+    },
+    {
+      "path": "ts"
+    },
+    {
+      "path": "go"
+    },
+    {
+      "path": "csharp"
+    },
+    {
+      "path": "py"
+    },
+    {
+      "path": "draft"
+    }
+  ],
   "settings": {}
 }
